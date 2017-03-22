@@ -38,13 +38,6 @@ The newest features (may be **unstable**) will be pushed to **develop** branch a
 - [ ] Support for Vulkan renderer
 - [ ] Efficient and realistic atmospheric scattering
 
-## Vertextracer TODOs
-- [ ] Tonemapping - auto-exposure
-- [ ] Light intensity calculated from AS
-- [ ] Ambient light calculated from AS
-- [ ] AS + fog
-- [ ] Calculate AS coefficients at fly (for a fog)
-
 ### Dependencies' versions
 - SDL  2.0.4 (stable)
 - GLEW 2.0.0
